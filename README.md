@@ -4,7 +4,7 @@ Aplikasi web sederhana untuk mengelola buku dengan mudah.
 
 ## Live Website
 
-[https://maos-quran.vercel.app/](https://maos-quran.vercel.app/)
+[BukuKu Web App](https://buku-ku.vercel.app/)
 
 ## Screenshoot
 
